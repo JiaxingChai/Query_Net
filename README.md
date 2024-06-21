@@ -1,4 +1,3 @@
-# Query_Net
 ### Introduction
 the offical codes of paper [MICCAI-2024] "QueryNet: A Unified Framework for Accurate Polyp Segmentation and Detection"
 ![query_net](/Figures/query_net.png "QueryNet")
