@@ -3,7 +3,7 @@ the offical codes of paper [MICCAI-2024] "QueryNet: A Unified Framework for Accu
 <img src="/Figures/query_net.png">
 
 ## Visualization
-![comparison](/Figures/comparison.png "comparison")
+<img src="/Figures/comparison.png">
 
 ## To-Do list 🔥:
 the paper codes and more research results will be released.
