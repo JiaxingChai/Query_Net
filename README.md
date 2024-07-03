@@ -1,7 +1,7 @@
 
 
 ## Introduction
-This repo is the official implementation of [MICCAI-2024] paper "QueryNet: A Unified Framework for Accurate Polyp Segmentation and Detection"
+This repo is the official implementation of [MICCAI-2024](https://conferences.miccai.org/2024/en/default.asp) paper "QueryNet: A Unified Framework for Accurate Polyp Segmentation and Detection"
 
 <img src="/Figures/query_net.png">
 
@@ -9,6 +9,9 @@ This repo is the official implementation of [MICCAI-2024] paper "QueryNet: A Uni
 
 ## Visualization
 <img src="/Figures/comparison.png">
+
+## 📯 news
+-[24 - 6] Our QueryNet was accepted by [MICCAI2024](https://conferences.miccai.org/2024/en/default.asp)
 
 ## To-Do list 🔥:
 the paper codes and more research results will be released.
