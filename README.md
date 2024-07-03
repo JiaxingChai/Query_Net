@@ -11,7 +11,7 @@ This repo is the official implementation of [MICCAI-2024](https://conferences.mi
 <img src="/Figures/comparison.png">
 
 ## 📯 news
--[24 - 6] Our QueryNet was accepted by [MICCAI2024](https://conferences.miccai.org/2024/en/default.asp)
+- [24 - 6] Our QueryNet was accepted by [MICCAI2024](https://conferences.miccai.org/2024/en/default.asp)
 
 ## To-Do list 🔥:
 the paper codes and more research results will be released.
