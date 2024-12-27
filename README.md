@@ -1,4 +1,4 @@
-
+<b>The codes are under modification, if you have any questions, you could pull issues directly or contact us by emails: 1552150863@qq.com.😀</b>
 
 ## Introduction
 This repo is the official implementation of [MICCAI-2024](https://conferences.miccai.org/2024/en/default.asp) paper "QueryNet: A Unified Framework for Accurate Polyp Segmentation and Detection"
